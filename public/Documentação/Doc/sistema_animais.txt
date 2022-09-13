@@ -1,0 +1,15 @@
+a pessoa pode adotar apenas um animal por vez
+
+criar tabela mensagem para o adiministrador mandar mensagem por usuario e vice e versa
+
+gerenciar adotantes solicitações - tela do admin gerenciar as solicitações
+
+pegar data e hora do login do usuario na hora de login
+
+tela de pesquisiar os animais = conheca-animais.php
+
+gerenciar animais tento adm(tudo e adicionar fnncionario) e funcionario(tudo que diz respeito aos animais) =  gerenciar- 	animais.php
+
+Validar adoções(adm) e funcionario pode apenas visualizar = adotantes-solicitacoes.php
+
+adotantes-solicitacoes(painel esquerdo -> Gerenciar Funcionário) apenas para funcionario =  

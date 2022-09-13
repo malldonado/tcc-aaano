@@ -1,0 +1,5 @@
+
+
+1 - Na tela de solicitações(ADM) colocar foto na visualização da foto do animal na solicitação
+
+2 - Listar os animais adotados e rejeitados através do uma tabela
